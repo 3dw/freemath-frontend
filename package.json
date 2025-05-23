@@ -2,7 +2,6 @@
   "name": "freemath-frontend",
   "version": "0.0.0",
   "private": true,
-  "packageManager": "yarn@3.6.3",
   "type": "module",
   "scripts": {
     "dev": "vite",
