@@ -945,10 +945,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"chinese-conv@npm:^3.2.2":
-  version: 3.2.2
-  resolution: "chinese-conv@npm:3.2.2"
-  checksum: 10c0/3cc74787a1939e0845c5ddb4789d228a012ee5f4b678fa47065a28e4af338873ab7d31bc4d763ba735c22643c3d9adb8412ea3005511094024fe719792eb1563
+"chinese-conv@npm:3.2.1":
+  version: 3.2.1
+  resolution: "chinese-conv@npm:3.2.1"
+  checksum: 10c0/3b258522d63822f57ca7eed0070c8064bb4c3a8f5dc3ad6a6ec4f90d3af0c1617e50843e990bf3c4ff5d477c6332aec2e8bb0026f3b0e4e4a66f91662a92c4e6
   languageName: node
   linkType: hard
 
@@ -1563,7 +1563,7 @@ __metadata:
     "@vue/eslint-config-prettier": "npm:^8.0.0"
     "@vue/tsconfig": "npm:^0.5.1"
     axios: "npm:^1.6.7"
-    chinese-conv: "npm:^3.2.2"
+    chinese-conv: "npm:3.2.1"
     eslint: "npm:^8.49.0"
     eslint-plugin-vue: "npm:^9.17.0"
     pinia: "npm:^3.0.2"
